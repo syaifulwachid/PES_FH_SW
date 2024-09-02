@@ -1,5 +1,3 @@
-Berikut ini adalah detail keterangan lengkap mengenai kode AutoLISP yang dapat Anda salin dan tempel ke dalam file `README.md` pada repository GitHub Anda:
-
 ---
 
 ## Fungsi PES (Prefix/Suffix)
